@@ -5,7 +5,7 @@
 "descripcion": "Descripcion 1", 
 "lat": -31.423386, 
 "lon": -64.18606, 
-"fotoUrl": "url://foto_url_1", 
+"fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_antares.jpg", 
 "rating": 4 
 }, 
 { 
@@ -23,7 +23,7 @@
 "descripcion": "Descripcion 3", 
 "lat": -31.423851, 
 "lon": -64.18712, 
-"fotoUrl": "url://foto_url_3", 
+"fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_logo_johnny_b_good.png", 
 "rating": 4 
 }
 ]
