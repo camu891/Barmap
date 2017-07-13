@@ -1,0 +1,29 @@
+[
+{
+"id": 1,
+"nombre": "Antares", 
+"descripcion": "Descripcion 1", 
+"lat": -31.423386, 
+"lon": -64.18606, 
+"fotoUrl": "url://foto_url_1", 
+"rating": 4 
+}, 
+{ 
+"id": 2, 
+"nombre": "Bonanza", 
+"descripcion": "Descripcion 2", 
+"lat": -31.422657, 
+"lon": -64.18476, 
+"fotoUrl": "url://foto_url_2", 
+"rating": 3 
+}, 
+{ 
+"id": 3, 
+"nombre": "Johnny B. Good", 
+"descripcion": "Descripcion 3", 
+"lat": -31.423851, 
+"lon": -64.18712, 
+"fotoUrl": "url://foto_url_3", 
+"rating": 4 
+}
+]

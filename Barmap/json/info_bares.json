@@ -1,0 +1,127 @@
+[
+{
+"id": 1,
+"nombre": "Antares", 
+"descripcion": "Descripcion 1", 
+"lat": -31.423386, 
+"lon": -64.18606, 
+"fotoUrl": "url://foto_url_1", 
+"rating": [
+			{"user":
+					{"name":"mati",
+					"photo":"url_foto"},
+			 "Comment":"sarasa",
+			 "star":5
+		   },
+		   {"user":
+					{"name":"mati2",
+					"photo":"url_foto"},
+			 "Comment":"sarasa2",
+			 "star":4
+		   }
+		],
+"carta":{
+		"items":
+				[	{
+					"id":1,
+					"name":"Cerveza 1",
+					"description":"cerveza rubia",
+					"type":"bebida",
+					"price":100,
+					"image":"url_foto"
+					},{
+					"id":2,
+					"name":"Lomito",
+					"description":"clomo completo",
+					"type":"comida",
+					"price":150,
+					"image":"url_foto"
+					}
+				]
+	},
+"eventos":	[		{
+					"id":1,
+					"name":"Rock",
+					"description":"rock tranca",
+					"price":100,
+					"image":"url_foto",
+					"date": "10/10/2017"
+					}
+			],
+"promociones": {"items":
+				[	{
+					"id":1,
+					"name":"Cerveza 1",
+					"description":"cerveza rubia",
+					"type":"bebida",
+					"price":100,
+					"image":"url_foto"
+					}
+				]
+				}
+		   
+},
+{
+"id": 2,
+"nombre": "Bonanza", 
+"descripcion": "Descripcion 2", 
+"lat": -31.423386, 
+"lon": -64.18606, 
+"fotoUrl": "url://foto_url_2", 
+"rating": [
+			{"user":
+					{"name":"mati",
+					"photo":"url_foto"},
+			 "Comment":"sarasa",
+			 "star":5
+		   },
+		   {"user":
+					{"name":"mati2",
+					"photo":"url_foto"},
+			 "Comment":"sarasa2",
+			 "star":4
+		   }
+		],
+"carta":{
+		"items":
+				[	{
+					"id":1,
+					"name":"Cerveza 1",
+					"description":"cerveza rubia",
+					"type":"bebida",
+					"price":100,
+					"image":"url_foto"
+					},{
+					"id":2,
+					"name":"Lomito",
+					"description":"clomo completo",
+					"type":"comida",
+					"price":150,
+					"image":"url_foto"
+					}
+				]
+	},
+"eventos":	[		{
+					"id":1,
+					"name":"Rock",
+					"description":"rock tranca",
+					"price":100,
+					"image":"url_foto",
+					"date": "10/10/2017"
+					}
+			],
+"promociones": {"items":
+				[	{
+					"id":1,
+					"name":"Cerveza 1",
+					"description":"cerveza rubia",
+					"type":"bebida",
+					"price":100,
+					"image":"url_foto"
+					}
+				]
+				}
+		   
+}
+
+]
