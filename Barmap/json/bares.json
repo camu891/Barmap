@@ -27,6 +27,15 @@
 "rating": 4 
 },
 { 
+"id": 4, 
+"nombre": "Johnny", 
+"descripcion": "Descripcion 3", 
+"lat": -31.5555, 
+"lon": -64.5555, 
+"fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_johnny_b_good.png", 
+"rating": 1 
+},
+{ 
 "id": 5, 
 "nombre": "BAR 5", 
 "descripcion": "Descripcion 4", 
