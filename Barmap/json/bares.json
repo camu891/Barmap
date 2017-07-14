@@ -34,5 +34,14 @@
 "lon": -64.18144, 
 "fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_johnny_b_good.png", 
 "rating": 4 
+},
+{ 
+"id": 5, 
+"nombre": "BAR 5", 
+"descripcion": "Descripcion 4", 
+"lat": -31.123445, 
+"lon": -64.335455, 
+"fotoUrl": "", 
+"rating": 5 
 }
 ]
