@@ -1,26 +1,28 @@
 {
 "id": 1,
-"nombre": "Antares", 
-"descripcion": "Descripcion 1", 
+"name": "Antares", 
+"description": "Descripcion 1", 
 "lat": -31.423386, 
 "lon": -64.18606, 
-"logoUrl": "url://foto_url_1", 
-"fotoPresentacionUrl": "url://foto_url_1", 
+"logo": "url://foto_url_1", 
+"imageCover": "url://foto_url_1", 
 "rating": [
-			{"user":
+			{ "id":1,
+			 "user":
 					{"name":"mati",
 					"photo":"url_foto"},
-			 "Comment":"sarasa",
+			 "comment":"sarasa",
 			 "star":5
 		   },
-		   {"user":
+		   { "id":2,
+		   	 "user":
 					{"name":"mati2",
 					"photo":"url_foto"},
-			 "Comment":"sarasa2",
+			 "comment":"sarasa2",
 			 "star":4
 		   }
 		],
-"carta":{
+"cart":{
 		"items":
 				[	{
 					"id":1,
@@ -39,16 +41,16 @@
 					}
 				]
 	},
-"eventos":	[		{
+"event":	[		{
 					"id":1,
 					"name":"Rock",
 					"description":"rock tranca",
 					"price":100,
 					"image":"url_foto",
-					"date": "10/10/2017"
+					"date": 1501898583
 					}
 			],
-"promociones": {"items":
+"promotion": { "items":
 				[	{
 					"id":1,
 					"name":"Cerveza 1",
