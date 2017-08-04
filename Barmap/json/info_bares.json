@@ -30,14 +30,21 @@
 					"description":"cerveza rubia",
 					"type":"bebida",
 					"price":100,
-					"image":"url_foto"
+					"image":"https://camu891.github.io/Barmap/Barmap/json/image_bebida.png"
 					},{
 					"id":2,
 					"name":"Lomito",
 					"description":"clomo completo",
 					"type":"comida",
 					"price":150,
-					"image":"url_foto"
+					"image":"https://camu891.github.io/Barmap/Barmap/json/image_comida.png"
+					},{
+					"id":3,
+					"name":"Lomito 2x1",
+					"description":"clomo completo con papitas",
+					"type":"comida",
+					"price":150,
+					"image":""
 					}
 				]
 	},
