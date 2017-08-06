@@ -1,0 +1,25 @@
+{  
+      "id":1,
+      "name":"Antares",
+      "category":{  
+         "id":1,
+         "name":"cerveza"
+      },
+      "lat": -31.423386,
+      "lon": -64.18606,
+      "street":"San lorenzo",
+      "streetNumber":10,
+      "floor":"string",
+      "neighborhood":"Nueva Cordoba",
+      "description":"Antares descripncion",
+      "rating":"int",
+      "schedule":[  
+         {  
+            "day":"all",
+            "open":"10:00hs",
+            "close":"04:00hs"
+         }
+      ],
+      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_antares.jpg",
+      "imageCover": "https://camu891.github.io/Barmap/Barmap/json/antares.jpg"
+   }
