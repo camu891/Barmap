@@ -10,6 +10,15 @@
 },
 {
 "idBar":1,
+"id": 4,
+"name": "Cerveza 4",
+"description": "cerveza 4",
+"type": "bebida",
+"price": 100,
+"image": "https://camu891.github.io/Barmap/Barmap/json/image_bebida.png"
+},
+{
+"idBar":1,
 "id": 2,
 "name": "Lomito",
 "description": "lomo completo",
