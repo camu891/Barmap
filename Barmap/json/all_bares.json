@@ -13,7 +13,7 @@
       "floor":"string",
       "neighborhood":"Nueva Cordoba",
       "description":"Antares descripncion",
-      "rating":"int",
+      "rating":2.5,
       "schedule":[  
          {  
             "day":"all",
@@ -38,7 +38,7 @@
       "floor":"string",
       "neighborhood":"Nueva Cordoba",
       "description":"Bonanza descripncion",
-      "rating":"int",
+      "rating":3.1,
       "schedule":[  
          {  
             "day":"all",
@@ -63,7 +63,7 @@
       "floor":"string",
       "neighborhood":"Nueva Cordoba",
       "description":"Johnny B Good descripncion",
-      "rating":"int",
+      "rating":1.3,
       "schedule":[  
          {  
             "day":"all",
