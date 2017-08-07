@@ -1,5 +1,6 @@
 [
 {
+"idBar":1,
 "id": 1,
 "name": "Cerveza 1",
 "description": "cerveza rubia",
@@ -8,6 +9,7 @@
 "image": "https://camu891.github.io/Barmap/Barmap/json/image_bebida.png"
 },
 {
+"idBar":1,
 "id": 2,
 "name": "Lomito",
 "description": "lomo completo",
@@ -16,6 +18,7 @@
 "image": "https://camu891.github.io/Barmap/Barmap/json/image_comida.png"
 },
 {
+"idBar":1,	
 "id": 3,
 "name": "Lomito 2x1",
 "description": "lomo completo con papitas",
