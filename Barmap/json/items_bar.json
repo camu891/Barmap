@@ -34,5 +34,14 @@
 "type": "comida",
 "price": 150,
 "image": ""
+},
+{
+"idBar":2,	
+"id": 3,
+"name": "Lomito del bar2",
+"description": "lomo completo del bar2",
+"type": "comida",
+"price": 150,
+"image": ""
 }
 ]

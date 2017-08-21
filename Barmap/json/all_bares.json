@@ -11,8 +11,8 @@
       "street":"San lorenzo",
       "streetNumber":10,
       "floor":"string",
-      "neighborhood":"Nueva Cordoba",
-      "description":"Antares descripncion",
+      "neighborhood":"Nueva Córdoba",
+      "description":"Antares descripción",
       "rating":2.5,
       "schedule":[  
          {  
@@ -31,13 +31,13 @@
          "id":1,
          "name":"cerveza y comida"
       },
-      "lat": -31.42332286,
+      "lat": -32.42332286,
       "lon": -64.1860336,
       "street":"San lorenzo",
       "streetNumber":10,
       "floor":"string",
       "neighborhood":"Nueva Cordoba",
-      "description":"Bonanza descripncion",
+      "description":"Bonanza descripción",
       "rating":3.1,
       "schedule":[  
          {  
@@ -46,7 +46,7 @@
             "close":"04:00hs"
          }
       ],
-      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_antares.jpg.",
+      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_antares.jpg",
       "imageCover": "https://camu891.github.io/Barmap/Barmap/json/antares.jpg"
    },
    {  
@@ -62,7 +62,7 @@
       "streetNumber":10,
       "floor":"string",
       "neighborhood":"Nueva Cordoba",
-      "description":"Johnny B Good descripncion",
+      "description":"Johnny B Good descripción",
       "rating":1.3,
       "schedule":[  
          {  
