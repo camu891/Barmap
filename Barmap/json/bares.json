@@ -6,7 +6,7 @@
       "description":"Barbeer descripción",
       "lat":-31.421304,
       "lon":-64.188224,
-      "logo":"",
+      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_barbeer.jpg",
       "rating":3,
       "status":"active",
       "category":{  
@@ -24,17 +24,17 @@
          "street_number":79
       },
       "schedules":[  
-      	{
+      	{	"id":1,
       		"day":1,
       		"open":"03:00",
       		"close":"05:00"
       	},
-      	{
+      	{	"id":2,
       		"day":2,
       		"open":"01:00",
       		"close":"05:00"
       	},
-      	{
+      	{	"id":3,
       		"day":3,
       		"open":"01:00",
       		"close":"05:00"
