@@ -8,7 +8,7 @@
       "lon":-64.188224,
       "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_barbeer.jpg",
       "rating":3,
-      "status":"active",
+      "status":"inactive",
       "category":{  
          "id":1,
          "name":"cerveza"
@@ -24,17 +24,17 @@
          "street_number":79
       },
       "schedules":[  
-      	{	"id":1,
+      	{	
       		"day":1,
       		"open":"03:00",
       		"close":"05:00"
       	},
-      	{	"id":2,
+      	{
       		"day":2,
       		"open":"01:00",
       		"close":"05:00"
       	},
-      	{	"id":3,
+      	{	
       		"day":3,
       		"open":"01:00",
       		"close":"05:00"
@@ -96,6 +96,21 @@
          "street_number":243
       },
       "schedules":[  
+      	{	
+      		"day":0,
+      		"open":"04:00",
+      		"close":"04:30"
+      	},
+      	{
+      		"day":1,
+      		"open":"01:00",
+      		"close":"03:00"
+      	},
+      	{	
+      		"day":2,
+      		"open":"02:00",
+      		"close":"04:00"
+      	}
 
       ],
       "image_cover":"https://camu891.github.io/Barmap/Barmap/json/cover_chabacano.jpg"
