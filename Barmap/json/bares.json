@@ -1,47 +1,123 @@
-[
-{
-"id": 1,
-"nombre": "Antares", 
-"descripcion": "Descripcion 1", 
-"lat": -31.423386, 
-"lon": -64.18606, 
-"fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_antares.jpg", 
-"rating": 4 
-}, 
-{ 
-"id": 2, 
-"nombre": "Bonanza", 
-"descripcion": "Descripcion 2", 
-"lat": -31.422657, 
-"lon": -64.18476, 
-"fotoUrl": "url://foto_url_2", 
-"rating": 3 
-}, 
-{ 
-"id": 3, 
-"nombre": "Johnny B. Good", 
-"descripcion": "Descripcion 3", 
-"lat": -31.423851, 
-"lon": -64.18712, 
-"fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_johnny_b_good.png", 
-"rating": 4 
-},
-{ 
-"id": 4, 
-"nombre": "Johnny", 
-"descripcion": "Descripcion 3", 
-"lat": -31.5555, 
-"lon": -64.5555, 
-"fotoUrl": "https://camu891.github.io/Barmap/Barmap/json/logo_johnny_b_good.png", 
-"rating": 1 
-},
-{ 
-"id": 5, 
-"nombre": "BAR 5", 
-"descripcion": "Descripcion 4", 
-"lat": -31.123445, 
-"lon": -64.335455, 
-"fotoUrl": "", 
-"rating": 5 
-}
+[  
+   {  
+      "id":2,
+      "cuit":30715325263,
+      "name":"Barbeer",
+      "description":"Barbeer descripción",
+      "lat":-31.421304,
+      "lon":-64.188224,
+      "logo":"",
+      "rating":3,
+      "status":"active",
+      "category":{  
+         "id":1,
+         "name":"cerveza"
+      },
+      "address":{  
+         "id":327,
+         "country":"Argentina",
+         "state":"Córdoba",
+         "city":"Córdoba",
+         "neighborhood":"Nueva Córdoba",
+         "street":"San Lorenzo",
+         "floor":"",
+         "street_number":79
+      },
+      "schedules":[  
+      	{
+      		"day":1,
+      		"open":"03:00",
+      		"close":"05:00"
+      	}
+      ],
+      "image_cover":"https://camu891.github.io/Barmap/Barmap/json/cover_barbeer.jpg"
+   },
+   {  
+      "id":3,
+      "cuit":30715325264,
+      "name":"Johnny B Good",
+      "description":"Johnny B Good descripción",
+      "lat":-31.4238513,
+      "lon":-64.1871151,
+      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_johnnybgood.jpg",
+      "rating":5,
+      "status":"active",
+      "category":{  
+         "id":1,
+         "name":"cerveza"
+      },
+      "address":{  
+         "id":3,
+         "country":"Argentina",
+         "state":"Córdoba",
+         "city":"Córdoba",
+         "neighborhood":"Nueva Córdoba",
+         "street":"Av. Hipólito Yrigoyen",
+         "floor":"",
+         "street_number":320
+      },
+      "schedules":[  
+
+      ],
+      "image_cover":"https://camu891.github.io/Barmap/Barmap/json/cover_johnnybgood.jpg"
+   },
+   {  
+      "id":54,
+      "cuit":20324817820,
+      "name":"Bar Chabacano",
+      "description":"Bar Chabacano se encuentra ubicado en el corazón del barrio Guemes.",
+      "lat":-31.425749,
+      "lon":-64.191977,
+      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_chabacano.jpg",
+      "rating":4,
+      "status":"active",
+      "category":{  
+         "id":1,
+         "name":"cerveza"
+      },
+      "address":{  
+         "id":53,
+         "country":"Argentina",
+         "state":"Córdoba",
+         "city":"Córdoba",
+         "neighborhood":"Guemes",
+         "street":"Fructuoso Rivera",
+         "floor":"",
+         "street_number":243
+      },
+      "schedules":[  
+
+      ],
+      "image_cover":"https://camu891.github.io/Barmap/Barmap/json/cover_chabacano.jpg"
+   },
+    {  
+      "id":55,
+      "cuit":20324817820,
+      "name":"Bar oculto",
+      "description":"Bar inactive.",
+      "lat":-31.425711,
+      "lon":-64.191988,
+      "logo":"https://camu891.github.io/Barmap/Barmap/json/logo_chabacano.jpg",
+      "rating":4,
+      "status":"inactive",
+      "category":{  
+         "id":1,
+         "name":"cerveza"
+      },
+      "address":{  
+         "id":511,
+         "country":"Argentina",
+         "state":"Córdoba",
+         "city":"Córdoba",
+         "neighborhood":"Guemes",
+         "street":"Fructuoso Rivera",
+         "floor":"",
+         "street_number":243
+      },
+      "schedules":[  
+
+      ],
+      "image_cover":"https://camu891.github.io/Barmap/Barmap/json/cover_chabacano.jpg"
+   }
+
 ]
